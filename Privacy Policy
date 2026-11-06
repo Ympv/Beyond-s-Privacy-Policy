@@ -1,0 +1,150 @@
+# Privacy Policy
+
+**Last Updated:** November 7, 2026
+
+This Privacy Policy explains how **Beyond** ("the Bot", "we", "our", or "us") collects, uses, stores, and handles information when you use the Bot on Discord.
+
+By using Beyond, you acknowledge that information may be processed as described in this policy.
+
+## 1. Information We Collect
+
+Depending on which commands and features you use, Beyond may process the following information:
+
+### Discord User Information
+- Discord User IDs.
+- Usernames and display names.
+- User avatars and profile information.
+- Server membership and role information.
+- Account creation dates.
+- Voice channel activity and status information.
+
+### Server Information
+- Discord Server IDs and names.
+- Channel and category IDs.
+- Role information and permissions.
+- Member join and leave information.
+
+### Messages and User-Submitted Content
+- Messages used to execute bot commands.
+- Message content processed by certain features.
+- Custom autoresponder triggers and responses.
+- Reminder messages.
+- AFK statuses and reasons.
+- Messages processed by translation features.
+- Deleted message content temporarily processed by the Snipe feature.
+
+We only process information when necessary for the Bot's functionality.
+
+## 2. How We Use Information
+
+Information processed by Beyond is used to provide and maintain its features, including:
+
+- Moderation and server management.
+- Welcome and goodbye messages.
+- Invite tracking.
+- Server event logging.
+- Custom voice channels.
+- Music playback and queues.
+- User profiles and utility commands.
+- Games and entertainment features.
+- Reminders and AFK statuses.
+- Automatic responses.
+- Message translation.
+
+## 3. Data Storage and Retention
+
+Beyond uses local configuration storage to operate its features.
+
+Certain configuration information may be stored, including:
+
+- Custom prefixes.
+- Welcome and goodbye configurations.
+- Honeypot channel configurations.
+- Invite tracking configurations.
+- Logging configurations.
+- Custom voice channel settings.
+- Autoresponder configurations.
+- Other server-specific settings.
+
+Some temporary information, such as active AFK statuses, music queues, and deleted-message cache data, is held in memory.
+
+**Deleted Messages:** The Snipe feature temporarily retains the most recently deleted message in a channel.
+
+We do not claim a fixed retention period for every category of information. Retention depends on the feature, configuration, and operational requirements.
+
+## 4. Third-Party Services
+
+Beyond uses third-party services and APIs to provide certain features.
+
+These may include:
+
+- **Top.gg:** Receives server count information for bot listing statistics.
+- **WeatherAPI:** Provides weather and air-quality information.
+- **Google Translate:** Processes text submitted for translation.
+- **SoundCloud and music-related providers:** Used for music searches and playback.
+- **External APIs:** Used for features such as jokes, memes, facts, and other utilities.
+
+These services have their own privacy policies and data-handling practices. Beyond does not control how third-party providers handle information after receiving it.
+
+## 5. Data Sharing
+
+We do not intentionally sell users' personal information.
+
+Information may be or processed in the following circumstances:
+
+- When required for a Bot feature to function.
+- When server administrators configure logging or moderation features.
+- When required by applicable law or a valid legal request.
+- When necessary to protect the Bot, its users, or its infrastructure.
+
+Server administrators are responsible for deciding which channels receive information through their server configurations.
+
+## 6. Your Choices and Data Requests
+
+You can control certain information through the Bot's available commands and features.
+
+You may:
+
+- Ask server administrators to disable specific Bot features.
+- Request removal of server-specific configurations.
+- Stop using the Bot at any time.
+- Contact the Bot developer regarding questions or data-related requests.
+
+When Beyond leaves a server, it removes several server-specific configurations, including prefixes, welcome settings, invite tracking, logging settings, honeypot settings, autoresponders, and voice-related configurations.
+
+For data-related requests, contact the developer using the support server listed below.
+
+## 7. Data Security
+
+We take reasonable steps to protect information processed by Beyond.
+
+However, no online service, hosting environment, can guarantee absolute security.
+
+Users should avoid sharing passwords, sensitive personal information through Bot commands.
+
+## 8. Children's Privacy
+
+Beyond is available through Discord and is subject to Discord's applicable age requirements.
+
+We do not intentionally request sensitive personal information from children.
+
+If you believe that personal information has been provided to Beyond inappropriately, contact the developer.
+
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy when Bot features, data practices, or applicable requirements change.
+
+Any updated version will be published at this location with a revised "Last Updated" date.
+
+Continued use of Beyond after an update means you acknowledge the updated policy.
+
+## 10. Contact Information
+
+If you have questions, concerns, or requests regarding this Privacy Policy, you can contact us through our official support server.
+
+**Discord Support Server:**  
+https://discord.gg/9DM3TKAfpX
+
+---
+
+*Thank you for using Beyond!*  
